@@ -26,6 +26,19 @@
 # Visual Studio cache directory
 .vs/
 
+Assets/Art/*
+Assets/Audio/*
+Assets/JMO Assets/*
+Assets/Particlecollection_Free samples/*
+Assets/Standard Assets/*
+Assets/TextMesh Pro/*
+Assets/UI - BUILDER/*
+ProjectSettings/*
+Assets/Invector-3rdPersonController/*
+
+
+
+
 # Gradle cache directory
 .gradle/
 
